@@ -28,6 +28,8 @@ canvas {
     margin-top: -50px;
     margin-left: -50px;
     text-decoration: none;
+    width: 100px;
+    height: 100px;
 }
 
 #wrapper > #Twitter {
@@ -40,6 +42,8 @@ canvas {
     margin-top: -50px;
     margin-left: -50px;
     text-decoration: none;
+    width: 100px;
+    height: 100px;
 }
 
 .fa-large {
