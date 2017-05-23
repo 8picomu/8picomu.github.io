@@ -1,10 +1,10 @@
 function setup() {
     var canvas = createCanvas(windowWidth, windowHeight);
-    a = createVector(100, 0);
+    a = createVector(70, 0);
     a.rotate(radians(0));
-    b = createVector(100, 0);
+    b = createVector(70, 0);
     b.rotate(radians(120));
-    c = createVector(100, 0);
+    c = createVector(70, 0);
     c.rotate(radians(240));
 }
 
